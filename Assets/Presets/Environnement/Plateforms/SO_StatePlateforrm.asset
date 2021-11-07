@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ff0e8708778044a8d58d0688abdcb0, type: 3}
+  m_Name: SO_StatePlateforrm
+  m_EditorClassIdentifier: 
+  platformTypes: 0
+  presenceChance: 15
+  platformPrefab: {fileID: 7364743100174927967, guid: fc17d2aa982968d45b47a4699622b44a, type: 3}
+  allowedZoningShape: 0
+  radiusOfAllowedSpawn: 0
+  vectorOfAllowedSpawn: {x: 0, y: 0}
+  prohibitedZoningShape: 0
+  radiusOfprohibitedSpawn: 0
+  vectorOfprohibitedSpawn: {x: 0, y: 0}

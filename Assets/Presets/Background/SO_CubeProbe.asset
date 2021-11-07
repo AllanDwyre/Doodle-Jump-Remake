@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bef4497f56643c74b9a0df28d70b5973, type: 3}
+  m_Name: SO_CubeProbe
+  m_EditorClassIdentifier: 
+  Radius: 5
+  maxScale: 10
+  minZ: 30
+  presenceChance: 100
+  canRotate: 1
+  allowedRotation: 0
+  probe: {fileID: 2618096022278337986, guid: a05bda2547071f64b8a97ece5db6aa39, type: 3}

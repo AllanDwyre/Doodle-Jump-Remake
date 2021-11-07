@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bef4497f56643c74b9a0df28d70b5973, type: 3}
+  m_Name: SO_TriangleProbe
+  m_EditorClassIdentifier: 
+  Radius: 20
+  maxScale: 3
+  minZ: 30
+  presenceChance: 20
+  canRotate: 0
+  allowedRotation: 2
+  probe: {fileID: 316063770172799136, guid: dac8440a2da3f5146ab9d1a975df4809, type: 3}
